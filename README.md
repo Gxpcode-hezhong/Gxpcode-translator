@@ -1,3 +1,5 @@
+这是一个适合Agent的专业翻译工具SKILL。
+
 ---
 name: gxpcode-translator
 description: 专业翻译工具 — 支持文本和 PDF 输入，PDF 输出双语对照 HTML + Markdown。触发关键词：翻译、术语保护、更新术语、词典、glossary、保留特定词。
