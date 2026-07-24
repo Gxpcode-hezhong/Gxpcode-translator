@@ -1,0 +1,2 @@
+pyahocorasick>=2.0.0
+pdfplumber>=0.10.0
