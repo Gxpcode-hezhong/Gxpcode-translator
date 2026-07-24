@@ -1,0 +1,8 @@
+{
+    "output_dir": "",
+    "dict_path": "Gxpcode-dict.csv",
+    "domain": "",
+    "subdomain": "",
+    "paddleocr_token": "",
+    "configured": false
+}
